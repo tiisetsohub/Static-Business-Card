@@ -39,6 +39,7 @@ body {
 .linkbtn{
   background-color:#5093E2;
   width: 130px;
+  height: 37px;
   margin-right: 30px;
   border-radius:8px;
   border: 0px solid;
@@ -47,6 +48,7 @@ body {
 .emailsbtn{
   background-color:white;
   width: 130px;
+  height: 37px;
   margin-left: 30px;
   border-radius:8px;
   border: 0px solid;
